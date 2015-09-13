@@ -70,3 +70,6 @@ Due before the start of Lecture 9, which starts at 12:30 PM MDT on September 22,
 44. *[master]* git add README.md  
 45. *[master]* git commit  
 // Update message for Commit 13 using vim, and save using ESC :wq  
+// [EDIT README.md] Add next list of commands  
+46. *[master]* git add README.md  
+47. *[master]* git commit -m "Commit 14 - Add final list of commands"  
