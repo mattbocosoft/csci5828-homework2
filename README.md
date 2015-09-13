@@ -52,9 +52,12 @@ Due before the start of Lecture 9, which starts at 12:30 PM MDT on September 22,
 31. *[bug-fix-experimental]* git add README.md  
 32. *[bug-fix-experimental]* git commit -m "Commit 9 - Add next list of commands"  
 
-36. *[master]* git checkout bug-fix
-37. *[bug-fix]* git merge bug-fix-experimental
-// [EDIT README.md] Resolve merge conflict (and add next list of commands)
-38. *[bug-fix]* git add README.md
-39. *[bug-fix]* git commit
-// Update message for Commit 11 using vim, and save using ESC :wq
+36. *[master]* git checkout bug-fix  
+37. *[bug-fix]* git merge bug-fix-experimental  
+// [EDIT README.md] Resolve merge conflict (and add next list of commands)  
+38. *[bug-fix]* git add README.md  
+39. *[bug-fix]* git commit  
+// Update message for Commit 11 using vim, and save using ESC :wq  
+// [EDIT README.md] Add next list of commands and add missing line breaks  
+40. *[bug-fix]* git add README.md  
+41. *[bug-fix]* git commit -m "Commit 12 - Add next list of commands and add missing markdown line breaks to README.md"  
