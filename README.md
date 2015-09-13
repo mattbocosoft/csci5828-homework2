@@ -36,3 +36,6 @@ Due before the start of Lecture 9, which starts at 12:30 PM MDT on September 22,
 // [EDIT README.md] Add next list of commands  
 29. *[bug-fix-experimental]* git add README.md  
 30. *[bug-fix-experimental]* git commit -m "Commit 8 - Add next list of commands"  
+// [EDIT README.md] Add next list of commands  
+31. *[bug-fix-experimental]* git add README.md  
+32. *[bug-fix-experimental]* git commit -m "Commit 9 - Add next list of commands"  
