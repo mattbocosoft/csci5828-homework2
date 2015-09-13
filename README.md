@@ -35,4 +35,6 @@ Due before the start of Lecture 9, which starts at 12:30 PM MDT on September 22,
 20. *[bug-fix]* git add README.md
 21. *[bug-fix]* git commit
 // Update commit message using vim, and save using ESC :wq
-
+// [EDIT README.md] Add next list of commands  
+22. *[bug-fix]* git add README.md
+23. *[bug-fix]* git commit -m "Commit 6 - Add next list of commands"
