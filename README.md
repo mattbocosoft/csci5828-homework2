@@ -17,3 +17,6 @@ Due before the start of Lecture 9, which starts at 12:30 PM MDT on September 22,
 // [EDIT README.md] Add next list of commands  
 8. *[master]* git add README.md  
 9. *[master]* git commit -m "Commit 1 - [README.md] Add next list of commands"  
+// [EDIT README.md] Add next list of commands  
+10. *[master]* git add README.md  
+11. *[master]* git commit -m "Commit 2 - [README.md] Add next list of commands"  
